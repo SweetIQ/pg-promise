@@ -43,11 +43,12 @@
   },
   "dependencies": {
     "pg": "5.1",
-    "spex": "1.x",
+    "spex": "git://github.com/sweetiq/spex.git#0f080d63ac730c421333c5d8e1f2f518ea508072",
     "pg-minify": "0.3",
     "manakin": "^0.4.6"
   },
   "devDependencies": {
+    "@types/node": "^6.0.45",
     "JSONStream": "1.x",
     "bluebird": "3.x",
     "coveralls": "2.x",
