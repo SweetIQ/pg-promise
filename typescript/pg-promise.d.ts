@@ -5,7 +5,6 @@
 /// <reference path='./pg-subset' />
 /// <reference path='./pg-minify' />
 /// <reference path='./ext-promise' />
-/// <reference path='../typings/index' />
 
 declare module 'pg-promise' {
 

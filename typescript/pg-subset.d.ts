@@ -9,7 +9,6 @@
 // pg: https://github.com/brianc/node-postgres
 //////////////////////////////////////////////////////////////////////////////
 
-/// <reference path='../typings/index' />
 
 declare module 'pg-subset' {
 
